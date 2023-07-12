@@ -20,7 +20,7 @@ To run the "IEEE-754 Floating Point Converter" application, make sure you have t
 You can install the required libraries using pip:
 
 ```bash
-pip install Pillow
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -56,6 +56,13 @@ In version 1.1 of the "IEEE-754 Floating Point Converter," the following updates
 
 In version 1.2 of the "IEEE-754 Floating Point Converter," the following updates have been made:
 
+- Updated README.md
+
+## Update 1.3
+
+In version 1.3 of the "IEEE-754 Floating Point Converter," the following updates have been made:
+
+- Added requirements.txt
 - Updated README.md
 
 ## Contributing
